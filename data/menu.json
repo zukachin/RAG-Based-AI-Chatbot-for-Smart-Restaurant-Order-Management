@@ -1,0 +1,24 @@
+[
+    {"name": "Andhra Chilli Chicken", "price": 250},
+    {"name": "Chettinad Mutton Curry", "price": 320},
+    {"name": "Kozhi Varuval (Chicken Fry)", "price": 280},
+    {"name": "Mysore Masala Dosa", "price": 150},
+    {"name": "Rasam Rice",  "price": 120},
+    {"name": "Kerala Parotta with Veg Kurma",  "price": 180},
+    {"name": "Sambar Sadam", "price": 140},
+    {"name": "Set Dosa with Coconut Chutney", "price": 160},
+    {"name": "Pesarattu (Green Gram Dosa)", "price": 170},
+    {"name": "Mutton Kothu Parotta",  "price": 350},
+    {"name": "Karimeen Pollichathu", "price": 450},
+    {"name": "Prawn Ghee Roast",  "price": 400},
+    {"name": "Hyderabadi Dum Biryani", "price": 380},
+    {"name": "Nannari Sarbath",  "price": 90},
+    {"name": "Paanakam", "price": 80},
+    {"name": "Neer Mor (Spiced Buttermilk)","price": 70},
+    {"name": "Jigarthanda", "price": 120},
+    {"name": "Tender Coconut Water", "price": 60},
+    {"name": "Masala Soda", "price": 100},
+    {"name": "Rose Milk",  "price": 90},
+    {"name": "Filter Coffee (Cold)", "price": 110}
+]
+

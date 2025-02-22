@@ -1,0 +1,27 @@
+[
+    {
+        "items": [
+            "Jigarthanda",
+            "Andhra Chilli Chicken",
+            "Hyderabadi Dum Biryani"
+        ],
+        "total_price": 750,
+        "order_id": 1450
+    },
+    {
+        "items": [
+            "Sambar Sadam"
+        ],
+        "total_price": 140,
+        "order_id": 7344
+    },
+    {
+        "items": [
+            "Jigarthanda",
+            "Andhra Chilli Chicken",
+            "Hyderabadi Dum Biryani"
+        ],
+        "total_price": 750,
+        "order_id": 5608
+    }
+]
